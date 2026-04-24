@@ -9,17 +9,17 @@ An automated Python pipeline that downloads live NSE data daily and serves a 3-t
 ## Dashboard Preview
 
 **Market Overview**
-![Market Overview](PBI Report/GIFS/Overview.gif)
+![Market Overview](PBI_Report/GIFS/Overview.gif)
 
 ---
 
 **Sector Pulse**
-![Sector Pulse](PBI Report/GIFS/Sector_Pulse.gif)
+![Sector Pulse](PBI_Report/GIFS/Sector_Pulse.gif)
 
 ---
 
 **Stocks Deep Dive**
-![Stocks](PBI Report/GIFS/Stocks.gif)
+![Stocks](PBI_Report/GIFS/Stocks.gif)
 
 ---
 
