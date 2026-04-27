@@ -47,7 +47,7 @@ NSE Website → download_data.py → parse_and_clean.py → Power BI
 |-----|----------------|
 | Market Overview | How is the market today? Index cards, advance/decline, EMA breadth, Nifty 50 trend, top gainers/losers |
 | Sector Pulse | Which sectors are leading? Heatmap with Today/1W/1M/YOY, sector trend chart, India VIX, volatility ranking |
-| Stocks Deep Dive | How is a specific stock doing? Price, PE, MCAP, 52W position, 1W/1M/6M/1Y returns, 1-year chart |
+| Stocks Deep Dive | How is a specific stock doing? Price, PE, MCAP, 52W position, 1D/1W/1M/6M/1Y returns, 1-year chart |
 
 ---
 
